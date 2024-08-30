@@ -21,7 +21,9 @@ This repo collects papers, docs, codes about 3D Scene Understanding for anyone w
   
 ### 2023
 - [[CVPRW](https://openaccess.thecvf.com/content/CVPR2023W/O-DRUM/html/Parelli_CLIP-Guided_Vision-Language_Pre-Training_for_Question_Answering_in_3D_Scenes_CVPRW_2023_paper.html)] CLIP-Guided Vision-Language Pre-Training for Question Answering in 3D Scenes [[code](https://github.com/alexdelitzas/3d-vqa)]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_OpenScene_3D_Scene_Understanding_With_Open_Vocabularies_CVPR_2023_paper.pdf)] OpenScene: 3D Scene Understanding with Open Vocabularies [[code](https://github.com/pengsongyou/openscene)]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_CLIP2Scene_Towards_Label-Efficient_3D_Scene_Understanding_by_CLIP_CVPR_2023_paper.pdf)] CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP [[code](https://github.com/runnanchen/CLIP2Scene)]
 ### 2022
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/html/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.html)] ScanQA: 3D Question Answering for Spatial Scene Understanding [[code](https://github.com/ATR-DBI/ScanQA)]
 ### 2021
-  
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Exploring_Data-Efficient_3D_Scene_Understanding_With_Contrastive_Scene_Contexts_CVPR_2021_paper.pdf)] Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts 
