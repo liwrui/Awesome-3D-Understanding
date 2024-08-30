@@ -14,6 +14,7 @@ This repo collects papers, docs, codes about 3D Scene Understanding for anyone w
 
 ### 2024
 - [[Arxiv](https://arxiv.org/abs/2405.05258)] Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving [[code](https://github.com/ldkong1205/LaserMix)]
+- [[Arxiv](https://arxiv.org/abs/2402.15933)]Bridging the Gap between 2D and 3D Visual Question Answering: A Fusion Approach for 3D VQA [[code](https://github.com/matthewdm0816/BridgeQA)]
 ### 2023
 ### 2022
 ### 2021
