@@ -14,6 +14,7 @@ This repo collects papers, docs, codes about 3D Scene Understanding for anyone w
 
 ### 2024
 - [[ArXiv](https://arxiv.org/abs/2405.05258)] Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving [[code](https://github.com/ldkong1205/LaserMix)]
+- [[ArXiv](https://arxiv.org/abs/2405.16559)] Map-based Modular Approach for Zero-shot Embodied Question Answering
 - [[AAAI](https://arxiv.org/abs/2306.02329)] SQA3D: Situated Question Answering in 3D Scenes [[code](https://sqa3d.github.io/)]
 - [[AAAI](https://arxiv.org/abs/2402.15933)] Bridging the Gap between 2D and 3D Visual Question Answering: A Fusion Approach for 3D VQA [[code](https://github.com/matthewdm0816/BridgeQA)]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2024/html/Zheng_Towards_Learning_a_Generalist_Model_for_Embodied_Navigation_CVPR_2024_paper.html)] Towards Learning a Generalist Model for Embodied Navigation [[code](https://github.com/LaVi-Lab/NaviLLM)]
