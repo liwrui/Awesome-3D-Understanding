@@ -26,7 +26,7 @@ This repo collects papers, docs, codes about 3D Scene Understanding for anyone w
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_OpenScene_3D_Scene_Understanding_With_Open_Vocabularies_CVPR_2023_paper.pdf)] OpenScene: 3D Scene Understanding with Open Vocabularies [[code](https://github.com/pengsongyou/openscene)]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_CLIP2Scene_Towards_Label-Efficient_3D_Scene_Understanding_by_CLIP_CVPR_2023_paper.pdf)] CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP [[code](https://github.com/runnanchen/CLIP2Scene)]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_PLA_Language-Driven_Open-Vocabulary_3D_Scene_Understanding_CVPR_2023_paper.pdf)] PLA: Language-Driven Open-Vocabulary 3D Scene Understanding [[code](https://github.com/CVMI-Lab/PLA)]
-- [[ACMM](https://dl.acm.org/doi/pdf/10.1145/3581783.3611767)] Beyond First Impressions: Integrating Joint Multi-modal Cues for
+- [[ACM MM](https://dl.acm.org/doi/pdf/10.1145/3581783.3611767)] Beyond First Impressions: Integrating Joint Multi-modal Cues for
 Comprehensive 3D Representation [[code](https://github.com/mr-neko/jm3d)]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_ULIP_Learning_a_Unified_Representation_of_Language_Images_and_Point_CVPR_2023_paper.pdf)] ULIP: Learning a Unified Representation of Language, Images, and Point
 Clouds for 3D Understanding [[code](https://github.com/salesforce/ULIP)]
