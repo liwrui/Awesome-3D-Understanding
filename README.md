@@ -1,5 +1,5 @@
 # Awesome 3D Scene Understanding
-This repo collects papers, docs, codes about 3D Scene Understanding for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Special thanks to [Fucheng Cai](https://github.com/HITCai), [Zhe yang](https://github.com/xia-zhe), [Kefei Zhu](https://github.com/zhucoffee), and all researchers who have contributed to this project!
+This repo collects papers, docs, codes about 3D Scene Understanding for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Special thanks to  [Zhi Zhou](https://github.com/SNOW-delala), [Jisheng Chu](https://github.com/JS-CHU) [Fucheng Cai](https://github.com/HITCai) and all researchers who have contributed to this project!
 
 ## Table of Contents
 
